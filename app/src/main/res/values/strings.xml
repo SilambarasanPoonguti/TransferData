@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TransferDataFromActivityToAnother</string>
+    <string name="username">Username</string>
+    <string name="transfer_data">Transfer data</string>
+    <string name="password">Pin</string>
+    <string name="e_mail">E-mail</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="tranferred_data">Tranferred Data</string>
+</resources>
